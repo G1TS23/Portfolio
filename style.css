@@ -107,7 +107,7 @@ color: var(--txt-color);
 
 .intro{
  width: 70%;
- margin: auto;
+ margin: 15px auto;
  padding: 15px;
  max-width: 900px;
 p{
