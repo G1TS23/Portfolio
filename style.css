@@ -261,6 +261,12 @@ ul{
   pointer-events: none;
 }
 
+.projets{
+  ul {
+    list-style: none;
+  }
+}
+
 
 footer{
   font-family: 'Montserrat', sans-serif;
